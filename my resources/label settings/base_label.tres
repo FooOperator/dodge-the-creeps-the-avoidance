@@ -1,0 +1,10 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://76vmm4basfa4"]
+
+[ext_resource type="FontFile" uid="uid://c3cbxejopya6h" path="res://fonts/Anonymous_Pro/AnonymousPro-Regular.ttf" id="1_gffos"]
+
+[resource]
+font = ExtResource("1_gffos")
+font_size = 50
+outline_size = 10
+outline_color = Color(0, 0, 0, 1)
+shadow_color = Color(0.714962, 0.450158, 0.232263, 0)
